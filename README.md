@@ -6,7 +6,7 @@
 - ✨ I'm Currently learning React
 - ⚛️ JavaScript | NodeJS | React
 - 📝 I'm graduated in Digital Design
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thiago-nascimbeni-3b6a1b179/), [Email](tnascimbeni@gmail.com), [witter](https://twitter.com/thiagomn12)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thiago-nascimbeni-3b6a1b179/), [Email](tnascimbeni@gmail.com), [Twitter](https://twitter.com/thiagomn12)
 
 
  
